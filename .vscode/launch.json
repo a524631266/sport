@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RandomStringTLUtils",
+            "request": "launch",
+            "mainClass": "org.sportbean.wx.sportbean.utils.RandomStringTLUtils",
+            "projectName": "sportbean"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "org.sportbean.wx.sportbean.DemoApplication",
+            "projectName": "sportbean"
+        }
+    ]
+}
